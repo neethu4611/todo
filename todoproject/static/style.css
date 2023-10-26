@@ -1,0 +1,19 @@
+
+.banner{
+background-color: darkslateblue;
+height: 200px;
+ width: 100%;
+margin-bottom: 50px;
+}
+
+.banner-text
+{
+top: 20%;
+left: 45%;
+position: absolute;
+transform: transform
+}
+.container
+{
+background-color: powderblue;
+}
